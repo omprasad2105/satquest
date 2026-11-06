@@ -4749,6 +4749,12 @@ body #about .icons img {
     margin: 10px;
 }
 
+body #about .logo img{
+    height: 300px;
+    width: auto;
+    align-self: center;
+}
+
 @media only screen and (max-width: 800px) {
     .list li .list-bar,
     .list li .list-left,
